@@ -1,4 +1,3 @@
-
 # Simple Calculator
 
 A clean and responsive calculator built using **HTML**, **CSS**, and **JavaScript**. Perform basic arithmetic operations with a modern UI.
@@ -16,7 +15,8 @@ A clean and responsive calculator built using **HTML**, **CSS**, and **JavaScrip
 
 ## Preview
 
-![Calculator Preview](preview.png)
+<img width="483" alt="Screenshot 2025-05-26 at 4 19 19 PM" src="https://github.com/user-attachments/assets/e4423114-3533-44ba-b5ab-aff60c85880d" />
+
 
 
 
